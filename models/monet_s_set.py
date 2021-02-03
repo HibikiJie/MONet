@@ -5,8 +5,8 @@ class Set:
 
     def __init__(self):
         '''图片和标签的位置'''
-        self.image_path = '/home/cq/pubilic/hibiki/MONet/data/image'
-        self.label_path = '/home/cq/pubilic/hibiki/MONet/data'
+        self.image_path = 'MONet/data/image'
+        self.label_path = 'MONet/data'
         self.image_size = 640  # 图片尺寸
         size = 's'
         depth_multiple = None

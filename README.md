@@ -38,3 +38,22 @@ $ pip install -r requirements.txt
 
 可多显卡训练。
 
+
+
+训练：
+
+```cmd
+python train.py
+```
+
+
+
+测试：
+
+```
+python explorer.py
+```
+
+
+
+目前图片尺寸仅支持640*640，并且无任何数据增强。后续可能的话，会添加。
