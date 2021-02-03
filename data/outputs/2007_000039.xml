@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>image</folder>
+  <filename>2007_000039</filename>
+  <path>C:\Users\Jie Xiang\Desktop\work\MONet\data\image\2007_000039.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>375</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>moniter</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>261.6014</cx>
+      <cy>181.5507</cy>
+      <w>207.3795</w>
+      <h>185.8652</h>
+      <angle>0.01</angle>
+    </robndbox>
+  </object>
+</annotation>

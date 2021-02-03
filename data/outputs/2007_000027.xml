@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>image</folder>
+  <filename>2007_000027</filename>
+  <path>C:\Users\Jie Xiang\Desktop\work\MONet\data\image\2007_000027.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>486</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>251.1765</cx>
+      <cy>217.2762</cy>
+      <w>88.1079</w>
+      <h>269.8248</h>
+      <angle>2.641593</angle>
+    </robndbox>
+  </object>
+</annotation>

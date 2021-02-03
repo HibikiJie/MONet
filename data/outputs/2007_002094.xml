@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>image</folder>
+  <filename>2007_002094</filename>
+  <path>C:\Users\Jie Xiang\Desktop\work\MONet\data\image\2007_002094.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>332</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>bird</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>212.9723</cx>
+      <cy>166.3789</cy>
+      <w>129.4122</w>
+      <h>312.5744</h>
+      <angle>0.6</angle>
+    </robndbox>
+  </object>
+</annotation>
