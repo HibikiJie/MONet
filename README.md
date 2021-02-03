@@ -6,7 +6,7 @@
 
 # 要求
 
-Python 3.8 或更晚，[安装.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt)依赖项，包括 。要安装运行：`torch>=1.7`
+Python 3.8 或更晚，安装requirements.txt依赖项，包括 。要安装运行：`torch>=1.7`
 
 ```
 $ pip install -r requirements.txt
