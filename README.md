@@ -1,6 +1,6 @@
 这是一个侦测倾斜文本的检测网络，网络修改自yolov4。网络通过学习四个点在非旋转矩形上的偏移来定位出一个四边形来表示一个物体。
 
-![image-20210203091321721](C:\Users\Jie Xiang\Desktop\MONet\images\image-20210203091321721.png)
+![image-20210203091321721](images\image-20210203091321721.png)
 
 
 
@@ -18,9 +18,9 @@ $ pip install -r requirements.txt
 
 训练自定义数据：
 
-图片路径放置于：C:\Users\Jie Xiang\Desktop\MONet\data\image下
+图片路径放置于：MONet\data\image下
 
-文本标签，放置于：C:\Users\Jie Xiang\Desktop\MONet\data下
+文本标签，放置于：MONet\data下
 
 ```
 2007_000042.jpg  train  118.1955  166.6799  236.391  272.0  0.0  train  380.6955  164.6102  236.609  265.8605  0.0
